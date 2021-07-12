@@ -1,6 +1,7 @@
+
 # DiceRoller
 
-Dice Roller with flutter
+Dice Roller with flutter.
 
 ## What I learned
 
@@ -15,3 +16,5 @@ Dice Roller with flutter
 
 
 
+
+![dice](https://user-images.githubusercontent.com/60577775/125300556-6e160300-e32a-11eb-98d6-16f4f53afd08.gif)
